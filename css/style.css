@@ -1,0 +1,29 @@
+body {
+
+  background: #FAF0D7
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #F4D19B;
+    border-width: 5px;
+    width: 8%;
+  }
+
+  img{
+    height: 200px
+  }
+
+h1, h3 {
+  color: #4A503D;
+}
+
+  thead{
+    font-family: fantasy;
+    color: #4A503D;
+    text-align: left;
+  }
+  td{
+    font-family: fantasy;
+    color: #4A503D;
+  }
